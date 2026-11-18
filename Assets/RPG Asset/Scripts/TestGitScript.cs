@@ -5,7 +5,7 @@ public class TestGitScript : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        // test test test test test test test test test test test
+        // Hello World!!!
     }
 
     // Update is called once per frame
